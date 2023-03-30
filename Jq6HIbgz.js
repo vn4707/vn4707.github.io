@@ -25,7 +25,7 @@ var jwDefaults = {
   },
   "mute": false,
   "ph": 1,
-  "pid": "",
+  "pid": "Jq6HIbgz",
   "playbackRateControls": true,
   "preload": "metadata",
   "repeat": false,
