@@ -15,7 +15,7 @@ var jwDefaults = {
   "controls": true,
   "displaydescription": false,
   "displaytitle": false,
-  "height": 240 ,
+  "height": 50 ,
   "key":"t45MCz1eU2gG9SjSk15DIt49T9UUbfLA15igpZ9Aer0FnvOr6Ty7rAakNolcYbYq",
   "logo": {
     "file": "/",
